@@ -1,2 +1,1 @@
-# ESPHome
-Collection of esphome code that I use.
+A collection of esphome YAMLs that I use.
